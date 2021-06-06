@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Logs and cache data
+data/*
+
+articles/*
+notebooks/*
+utils/text_processing/*
